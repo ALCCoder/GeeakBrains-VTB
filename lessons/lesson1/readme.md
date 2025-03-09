@@ -152,7 +152,6 @@ this
 :laughing:
 :blush:
 
-
 ```python
 print("Привет, мир!")
 ```
